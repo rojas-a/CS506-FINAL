@@ -5,15 +5,15 @@ This project intends to clean, analyze, and produce meaningful visualizations of
 ## Timeline
 **Week 0 (2/11)** - Project outlining/planning  
 
-**Week 1 & 2 (2/15)** - Data preprocessing, drafting code  
+**Week 1 & 2 (2/15)** - Data preprocessing, implement routines to import, clean, and compile data from various sources 
 
-**Week 3 & 4 (3/1)** - Drafting, scheduled check-in #1  
+**Week 3 & 4 (3/1)** - Implement routines to calculate data statistics relevant to goals, scheduled check-in #1  
 
-**Week 5 & 6 (3/15)** - Data analysis, code optimization  
+**Week 5 & 6 (3/15)** - Data analysis, implement initial data visualization routines, initial tests  
 
-**Week 7 & 8 (3/29)** - Optimization, scheduled check-in #2  
+**Week 7 & 8 (3/29)** - Optimization of existing routines, scheduled check-in #2  
 
-**Week 9 & 10 (4/5)** - Debugging, visualization clean up  
+**Week 9 & 10 (4/5)** - Debugging/testing of optimized code, visualization clean up  
 
 **Week 11 (4/26)** - Final touches, presentation prep  
 
@@ -31,7 +31,7 @@ Achieving these goals will allow the government to focus on the pain points of t
 
 
 ## What Data/How we Collected it
-For this project, we will use publicly available datasets provided by the City of Boston. Instead of collecting new data ourselves, we will use the existing city records and combine them to form a single, clean dataset that connects violations to specific properties, owners, and neighborhoods. All data is available for dowwnload from the city's website Analyze Boston.
+For this project, we will use publicly available datasets provided by the City of Boston. Instead of collecting new data ourselves, we will use the existing city records and combine them to form a single, clean dataset that connects violations to specific properties, owners, and neighborhoods. All data is available for download from the city's website Analyze Boston.
 
 The datasets include:
 
